@@ -55,7 +55,7 @@
     "stylelint": "^14.16.1",
     "stylelint-config-recess-order": "^3.1.0",
     "stylelint-config-standard": "^29.0.0",
-    "stylelint-order": "^6.0.1",
+    "stylelint-order": "^6.0.2",
     "typescript": "*",
     "vite": "4.1.1",
     "vite-tsconfig-paths": "^4.0.3"
