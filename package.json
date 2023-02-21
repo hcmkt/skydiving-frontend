@@ -53,7 +53,7 @@
     "prettier": "^2.8.4",
     "simple-git-hooks": "^2.8.1",
     "stylelint": "^15.2.0",
-    "stylelint-config-recess-order": "^3.1.0",
+    "stylelint-config-recess-order": "^4.0.0",
     "stylelint-config-standard": "^30.0.1",
     "stylelint-order": "^6.0.2",
     "typescript": "*",
