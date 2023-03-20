@@ -20,7 +20,7 @@
     "prepare": "npx simple-git-hooks || :"
   },
   "dependencies": {
-    "@chakra-ui/react": "^2.5.1",
+    "@chakra-ui/react": "^2.5.2",
     "@emotion/react": "^11",
     "@emotion/styled": "^11",
     "@line/liff": "2.21.4",
