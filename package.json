@@ -50,7 +50,7 @@
     "eslint-plugin-react-hooks": "^4.6.0",
     "json-server": "^0.17.2",
     "lint-staged": "^13.2.0",
-    "prettier": "^2.8.5",
+    "prettier": "^2.8.6",
     "simple-git-hooks": "^2.8.1",
     "stylelint": "^15.3.0",
     "stylelint-config-recess-order": "^4.0.0",
