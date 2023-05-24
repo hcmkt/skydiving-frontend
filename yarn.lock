@@ -3600,9 +3600,9 @@ forwarded@0.2.0:
   integrity sha512-buRG0fpBtRHSTCOASe6hD258tEubFoRLb4ZNA6NxMVHNw2gOcwHo9wyablzMzOA5z9xA9L1KNjk/Nt6MT9aYow==
 
 framer-motion@^10:
-  version "10.12.13"
-  resolved "https://registry.yarnpkg.com/framer-motion/-/framer-motion-10.12.13.tgz#83b22a10a4120d443fc794ddce4e0518ce7abc0d"
-  integrity sha512-JczRkFlu1ayXetPkUSoaUmoaK0+PsSHAnb25UFGiJeT2hTsX6IKwC+l0/rJYn+HdyzNbudWFKjeeNSHcykPI4Q==
+  version "10.12.15"
+  resolved "https://registry.yarnpkg.com/framer-motion/-/framer-motion-10.12.15.tgz#3920aeffeec47b52efceef55d870bc29204505e2"
+  integrity sha512-6+4UbaveKbDwWfTddkGPti29XhdaGomkzXo5wirq6USIK6HBTRjj+4ZPLfo7t/rurDK0K/4ucmfgMfepfahgkw==
   dependencies:
     tslib "^2.4.0"
   optionalDependencies:
